@@ -1,0 +1,6 @@
+Bugün ASP .Net ile araştırma yaptım ilk. Web sitesi yapmaya başlayacağım 
+ASP .Net ile. Çok katmanlı mimari şeklinde olacak. Müze web sitesi yapmaya karar 
+verdim. default ve style adında iki tane sayfa açtım. Style kısmında css kodlarımu,
+default kısmında ise web sitemin iskeletini yani div lerin bulunduğu kısım. Menü, 
+banner, sağ ve sol kısım ve footer kısmının tasarımını yaptım. Şu anda nereye ne yapacağımı 
+kaç boyutlarda yapacağımı araştırma yaptım ve uyguladım bir kısmını.
